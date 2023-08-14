@@ -12,6 +12,9 @@
 *.dvi
 *-converted-to.*
 
+## Unmirrored documents:
+coverletter.pdf
+
 ### Editor ###
 ## Vim & Emacs temp files:
 .*sw[op]
